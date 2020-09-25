@@ -11,8 +11,6 @@
 using namespace std;
 
 /*  Patrick Bauer
- *  Professor Bölöni
- *  COP 4600 - Operating Systems
  *  9/24/2020
  */
 
